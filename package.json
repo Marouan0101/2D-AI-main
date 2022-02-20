@@ -1,0 +1,22 @@
+{
+  "name": "2d-ai-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "attack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marouan0101/2D-AI-main2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marouan0101/2D-AI-main2/issues"
+  },
+  "homepage": "https://github.com/Marouan0101/2D-AI-main2#readme"
+}
